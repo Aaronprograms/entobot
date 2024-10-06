@@ -1,4 +1,46 @@
 bristletails
 siverfish, firebrats
 mayflies
-dragonflies/damselflies
+darners
+clubtails
+skimmers
+spread-wing
+narrow-winged
+cockroaches/termites
+mantids
+ice crawlers
+earwigs
+stoneflies
+pygmy grasshopper
+short-horned grasshopper
+katydids
+camel crickets
+crickets/tree crickets
+mole crickets
+walkingsticks
+book/bark lice
+water boatmen
+backswimmers
+giant water bugs
+waterscorpians
+toad bugs
+water striders
+bed bugs
+plant bugs
+assassin bugs
+ambush bugs
+lace bugs
+seed bugs
+leaf-footed bugs
+stink bugs
+cicadas
+treehoppers
+froghoppers, spittlebugs
+leafhoppers
+fulgorid planthoppers
+aphids
+scale(twig or leaf)
+thrips
+dobsonflies
+green lacewings
+antlions
