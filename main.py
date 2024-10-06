@@ -18,7 +18,7 @@ bot.setup(
     name="ento-id",  # all lowercase, no spaces, doesn't really matter what this is
     download_dir="image/",  # name of downloaded image directory (no trailing slash)
     data_dir="data/",  # directory of data lists (wiki, alias, id lists), with trailing slash
-    list_dir="lists",  # directory of id lists (no trailing slash)
+    list_dir="group",  # directory of id lists (no trailing slash)
     wikipedia_file="wikipedia.txt",  # name of wikipedia file
     alias_file="aliases.txt",  # name of alias file
     logs=True,  # enable logging
